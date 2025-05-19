@@ -1,5 +1,5 @@
 # I. Introduction
-Using SQL likes handle datetime, aggregate, and window functions to display revenue, retention rate of customer, index related to stocks (trend of stock, stock/sales).
+Using SQL likes handle **datetime, aggregate, and window functions** to display revenue, retention rate of customer, index related to stocks (trend of stock, stock/sales).
 # II. Requirements
 1.	Google Cloud Platform account
 2.	Project on Google Cloud Platform
